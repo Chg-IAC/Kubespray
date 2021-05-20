@@ -37,7 +37,7 @@ system_cpu_reserved: 500m
 system_master_memory_reserved: 256Mi
 system_master_cpu_reserved: 250m
 
-kubelet_status_update_frequency: 10s
+kubelet_status_update_frequency: 4s
 
 # Requests for load balancer app
 loadbalancer_apiserver_memory_requests: 32M
